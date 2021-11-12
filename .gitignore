@@ -1,0 +1,31 @@
+# vs shit
+*.pdb
+*.idb
+*.aps
+*.exe
+*.ipch
+*.lib
+*.log
+*.tlog
+*.suo
+*.sdf
+*.res
+*.pch
+*.obj
+*.lastbuildstate
+*.ilk
+*.mdp
+*.ncb
+*.clw
+*.cpl
+*.exp
+*.awk
+*.opt
+*.map
+*.tlb
+*.sbr
+*.bsc
+*.scc
+
+# libs
+*.dll
